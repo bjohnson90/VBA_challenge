@@ -1,4 +1,4 @@
-Function transform_stock_data()
+Function transform_stock_data_all_years()
     Dim currStock As String
     Dim greatestIncreaseStock As String
     Dim greatestDecreaseStock As String
